@@ -1,0 +1,28 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "friends.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhamdan3/FriendFinder.git"
+  },
+  "author": "Mahdi Hamdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhamdan3/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/mhamdan3/FriendFinder#readme"
+}
